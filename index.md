@@ -1,0 +1,4 @@
+---
+layout: page
+---
+[a](/desination/)
