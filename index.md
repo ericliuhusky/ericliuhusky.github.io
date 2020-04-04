@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-[a](/destination/)
+[a](/destination.md/)
