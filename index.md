@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-[a](/desination/)
+[a](/destination/)
