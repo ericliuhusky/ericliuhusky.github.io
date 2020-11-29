@@ -1,0 +1,77 @@
+![思维导图](./images/application_development_technology_analysis.png)
+# 应用软件开发
+## 服务器
+### Linux
+#### Web服务器
+##### Apache
+##### Nginx
+#### 数据库
+##### MySQL
+##### Oracle
+##### MongoDB
+#### 编程语言
+##### Java
+##### Go
+##### python
+###### 爬虫
+###### 机器学习
+###### 包管理工具
+* pip
+##### Node.js
+## PC电脑
+### Windows
+#### 编程语言
+##### C#
+##### electron
+#### Web网页
+##### 编程语言
+###### JavaScript
+* Node.js
+    * 包管理工具
+        * npm
+* 框架
+    * React
+        * React-Native
+    * Vue
+###### HTML5
+###### CSS
+###### Dart
+* Flutter
+### MacOS
+#### 编程语言
+##### Objective-C
+###### 包管理工具
+* CocoaPods
+##### Swift
+###### 包管理工具
+* CocoaPods
+* Swift Package Manager
+#### Web网页
+## 移动端
+### 安卓
+#### 编程语言
+##### Java
+##### Kotlin
+##### Dart
+###### Flutter
+#### 小程序
+##### 编程语言
+###### 类Web
+###### React.js
+* Taro
+### iOS
+#### 编程语言
+##### Objective-C
+###### 包管理工具
+* CocoaPods
+##### Swift
+###### 包管理工具
+* CocoaPods
+* Swift Package Manager
+##### Dart
+###### Flutter
+#### 小程序
+## 文档
+### MarkDown
+## 代码管理
+### Git
